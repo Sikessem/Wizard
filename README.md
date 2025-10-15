@@ -73,6 +73,11 @@
 
 Start [PHP][php-home] applications using [Laravel][laravel-home] preconfigured with [TypeScript][typescript-home], [Livewire][livewire-home], [Alpine.js][alpinejs-home], [TailwindCSS][tailwindcss-home] and many others such as [Vite.js][vitejs-home], [Rome][rome-home], [Vitest][vitest-home], [Pint][pint-home], [PHPStan][phpstan-home], [Larastan][larastan-home], [Rector][rector-home], etc.
 
+> [!WARNING]
+This repository is no longer maintained.
+Refer to [@Sikessem/Sikessem](https://github.com/Sikessem/Sikessem)
+for new updates or contributions.
+
 ## 🔖 Contents
 
 - [Sikessem Starter](#sikessem-starter)
